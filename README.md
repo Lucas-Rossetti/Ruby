@@ -1,2 +1,2 @@
 # Ruby
-Scripts fáceis em ruby
+Scripts em ruby
