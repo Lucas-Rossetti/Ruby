@@ -1,10 +1,10 @@
-print "Número: "
+print "Number: "
 n = gets.chomp.to_i
 
 a = n.remainder 2
 
 if a == 0
-  puts "Par"
+  puts "Even"
 else
-  puts "Impar"
+  puts "Odd"
 end
