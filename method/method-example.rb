@@ -1,11 +1,12 @@
 def calc()
+  print "First number\n"
   a = gets.chomp.to_i
+  print "Second number\n"
   b = gets.chomp.to_i
   
-  resposta = a+b
+  ans = a+b
 
-  puts resposta
-
+  puts "The sum is #{ans}"
 end
 
 calc()
