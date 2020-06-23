@@ -1,5 +1,5 @@
-print "Qual seu nome?\n"
+print "What is your name?\n"
 
 nome = gets.chomp
 
-print "Bem vindo #{nome}\n"
+print "Welcome #{nome}\n"
